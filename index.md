@@ -11,7 +11,7 @@
 [Overleaf](https://www.overleaf.com/read/cpkzxvzczssn),
 [PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
 
-### 2円の交点
+### 平面上の2円の交点の座標について
 ![](img/intersection.png)
 
 解析幾何で2つの円の交点を求めます.
@@ -35,7 +35,7 @@ NURBSは区分多項式をつかって曲線や曲面を表現するための手
 この手法はB-splineやBézier曲線の一般化であり, CGや数値計算などの分野で使われています.
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
 
-[Overlaf](https://www.overleaf.com/read/vygnptvqfspd)
+[Overlaf](https://www.overleaf.com/read/vygnptvqfspd),
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 ### LandauのO-記法の厳密な扱い(執筆中)
