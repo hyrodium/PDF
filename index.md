@@ -3,7 +3,6 @@
 間違いや質問などあれば[ご連絡](https://hyrodium.github.io/Profile)ください.
 
 ### 微積分に頼らずに幾つかの冪級数を求める
-![](https://raw.githubusercontent.com/hyrodium/pdf/images/cossin.png?token=ABZEFDA6IIJUW42SLTCXLCK57NNQW)
 ![](cossin.png)
 
 [100 Great Problems of Elementary Mathematics](https://www.amazon.co.jp/dp/B00BOKIWSM)の内容をもとに書いた文章です.
