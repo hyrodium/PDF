@@ -24,7 +24,7 @@ NURBSは区分多項式をつかって曲線や曲面を表現するための手
 
 [Overlaf](https://www.overleaf.com/read/vygnptvqfspd)
 
-* **LandauのO-記法の厳密な扱い**
+### LandauのO-記法の厳密な扱い
 Landauの記法O(x)とかの厳密な扱いについて述べます.
 
 [Overleaf](https://www.overleaf.com/read/hxrrkzkfrwkv)
