@@ -3,9 +3,13 @@
 間違いや質問などあれば[ご連絡](https://hyrodium.github.io/Profile)ください.
 
 ### 微積分に頼らずに幾つかの冪級数を求める
+![](https://raw.githubusercontent.com/hyrodium/pdf/images/cossin.png?token=ABZEFDA6IIJUW42SLTCXLCK57NNQW)
+
 100 Great Problems in Elementary Mathematicsの内容をもとに書いた文章です.
 微分や積分を使わずにexp, sin, cosの冪級数展開を求めます.
+
 [Overleaf](https://www.overleaf.com/read/cpkzxvzczssn), [pdf](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
+
 ### 2円の交点
 解析幾何で2つの円の交点を求めます.
 
