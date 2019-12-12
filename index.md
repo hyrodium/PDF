@@ -13,6 +13,7 @@
 
 ### 2円の交点
 ![](https://github.com/hyrodium/pdf/blob/images/intersection.png?raw=true)
+
 解析幾何で2つの円の交点を求めます.
 
 [Overleaf](https://www.overleaf.com/read/qykjnbwdfjrj),
