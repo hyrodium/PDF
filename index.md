@@ -45,11 +45,11 @@ n+1個の点𝒑ᵢがℝᵐ (n≤m)上の一般の位置にあるとき, 𝒑�
 ### NURBS多様体による形状表現
 ![](img/nurbs.png)
 
-NURBSは区分多項式をつかって曲線や曲面を表現するための手法です.
+NURBSは区分有理式を用いて曲線や曲面を表現するための手法です.
 この手法はB-splineやBézier曲線の一般化であり, CGや数値計算などの分野で使われています.
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
 
-[Overlaf](https://www.overleaf.com/read/vygnptvqfspd),
+[Overleaf](https://www.overleaf.com/read/vygnptvqfspd),
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
 
 
