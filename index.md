@@ -2,6 +2,7 @@
 私の書いたPDF文書です.
 間違いや質問などあれば[ご連絡](https://hyrodium.github.io/Profile)ください.
 
+
 ### 微積分に頼らずに幾つかの冪級数を求める
 ![](img/cossin.png)
 
@@ -11,6 +12,7 @@
 [Overleaf](https://www.overleaf.com/read/cpkzxvzczssn),
 [PDF](https://drive.google.com/open?id=1otefohLREQurkijJ7Ei_5jFyf-GugiJM)
 
+
 ### 平面上の2円の交点の座標について
 ![](img/intersection.png)
 
@@ -18,6 +20,17 @@
 
 [Overleaf](https://www.overleaf.com/read/qykjnbwdfjrj),
 [PDF](https://drive.google.com/open?id=1cg2xY0FJ3MNmAqzLWA2AUIA64asKhLkY)
+
+
+### n+1点を通るn-1次元球面
+![](img/sphere.png)
+
+n+1個の点𝒑ᵢがℝᵐ (n≤m)上の一般の位置にあるとき, 𝒑ᵢを通るn-1次元球面S⊂ℝᵐが一意的に存在します. その球面Sの中心𝒄を求める式を導出しました.
+これは3角形の外心の一般化でもあります.
+
+[Overlaf](https://www.overleaf.com/read/nnffssqthbsf),
+[PDF](https://drive.google.com/open?id=1i_fuJQoKcPNZRJoBrZ_K4o6c1SzURgKA)
+
 
 ### Riemann多様体上の発散の同値な定義
 ![](img/divergence.png)
@@ -28,8 +41,9 @@
 [Overleaf](https://www.overleaf.com/read/gfjtscqftvgz),
 [PDF](https://drive.google.com/open?id=1lxR1pYUQHHJCLBugO7BbGK8QlUCRJ3_y)
 
+
 ### NURBS多様体による形状表現
-![](img/NURBS.png)
+![](img/nurbs.png)
 
 NURBSは区分多項式をつかって曲線や曲面を表現するための手法です.
 この手法はB-splineやBézier曲線の一般化であり, CGや数値計算などの分野で使われています.
@@ -37,6 +51,7 @@ NURBSは区分多項式をつかって曲線や曲面を表現するための手
 
 [Overlaf](https://www.overleaf.com/read/vygnptvqfspd),
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
+
 
 ### LandauのO-記法の厳密な扱い(執筆中)
 Landauの記法O(x)とかの厳密な扱いについて書いています.
