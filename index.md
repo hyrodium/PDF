@@ -1,6 +1,6 @@
 # pdf
 私の書いたPDF文書です.
-間違いや質問などあれば[ご連絡](https://hyrodium.github.io/Profile)ください.
+間違いや質問などあれば[私](https://hyrodium.github.io/profile)までご連絡ください.
 
 
 ### 微積分に頼らずに幾つかの冪級数を求める
