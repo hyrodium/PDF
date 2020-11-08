@@ -39,7 +39,7 @@ n+1個の点𝒑ᵢがℝᵐ (n≤m)上の一般の位置にあるとき, 𝒑�
 この文章ではそれらの同値性やそれぞれの利点や幾何的解釈について述べます.
 
 [Overleaf](https://www.overleaf.com/read/gfjtscqftvgz),
-[PDF](https://drive.google.com/open?id=1lxR1pYUQHHJCLBugO7BbGK8QlUCRJ3_y)
+[PDF](https://drive.google.com/file/d/1G6l0E1bpyb6v0dj85zfBLuvGO5QTNlMo/view)
 
 
 ### NURBS多様体による形状表現
@@ -48,6 +48,7 @@ n+1個の点𝒑ᵢがℝᵐ (n≤m)上の一般の位置にあるとき, 𝒑�
 NURBSは区分有理式を用いて曲線や曲面を表現するための手法です.
 この手法はB-splineやBézier曲線の一般化であり, CGや数値計算などの分野で使われています.
 日本語の文章で数学的にちゃんとした文章が見当たらなかったので書きました.
+(実は一部の証明などに間違いがありますが、修正に手が回ってません…)
 
 [Overleaf](https://www.overleaf.com/read/vygnptvqfspd),
 [PDF](https://drive.google.com/open?id=1JK2tBEXQavGOq2nlkpJyoeQC0QoIUOQ3)
