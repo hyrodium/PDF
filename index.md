@@ -1,4 +1,4 @@
-# PDF
+# pdf
 私の書いたPDF文書です.
 間違いや質問などあれば[ご連絡](https://hyrodium.github.io/Profile)ください.
 
